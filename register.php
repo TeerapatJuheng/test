@@ -200,7 +200,7 @@
                 echo "<p>Address: " . $row["store_address"] . "</p></div>";
             }
         } else {
-            echo "<p>No stores registered yet.</p>";
+            echo "<p>No stores </p>";
         }
 
         // ปิดการเชื่อมต่อ
